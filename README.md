@@ -1,9 +1,62 @@
-## Hi there 👋
+# 👋 Hey, I’m Michael Nobles
 
-My name is Mike and I'm excited to work in tech! 
+🚛 Former truck driver turned full-stack web developer  
+🛼 Roller skater  
+💻 Building modern web apps with React + Python  
 
-- 🔭 I’m currently working on building my tech profile
-- 🌱 I’m currently learning React, Python, and HTML/CSS
--  In my free time, I like to roller skate and hangout with friends
+---
 
-I can be reached at Mnobles33@gmail.com
+## 🚀 What I’m Working On
+
+- 💰 Budget App (React → FastAPI backend evolution)
+- 🎮 Reflex-based browser game with progressive difficulty
+- 🐍 Python backend projects focused on APIs & data handling
+- 🌐 Expanding into Next.js & modern full-stack architecture
+
+---
+
+## 🧠 Tech Stack
+
+**Frontend**
+- React
+- JavaScript / TypeScript
+- Tailwind CSS
+- Vite
+
+**Backend**
+- Python
+- FastAPI
+- SQLAlchemy
+- SQLite
+
+**Tools**
+- Git & GitHub
+- Vercel
+- VS Code
+- Postman
+
+---
+
+## 🎯 Current Focus
+
+Sharpening:
+- Clean component architecture
+- Backend API design
+- State management patterns
+- Production-ready portfolio projects
+
+---
+
+## 🌎 Live Projects
+
+- 🔗 Budget App – [https://budget-app-lake-omega.vercel.app/]
+- 🔗 Portfolio – [https://michaelnobles.dev]
+- 🔗 Game – [https://risk-zone.vercel.app/]
+
+---
+
+## 📬 Let’s Connect
+
+- LinkedIn: [www.linkedin.com/in/michael-nobles-0242b014b]
+- Portfolio: https://michaelnobles.dev
+
