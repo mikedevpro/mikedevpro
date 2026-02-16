@@ -1,8 +1,9 @@
 # 👋 Hey, I’m Michael Nobles
 
-🚛 Former truck driver turned full-stack web developer  
-🛼 Roller skater  
-💻 Building modern web apps with React + Python  
+🛼 Full-Stack Web Developer | React + Python  
+🚛 Former truck driver turned software builder  
+💻 Building modern, production-ready web apps
+
 
 ---
 
