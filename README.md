@@ -1,36 +1,35 @@
 # 👋 Hey, I’m Michael Nobles
 
-🛼 Full-Stack Web Developer | React + Python  
+🛼 Full-Stack Web Developer (React + Python)  
 🚛 Former truck driver turned software builder  
-💻 Building modern, production-ready web apps
-
+💻 Building modern, production-ready web applications  
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 What I’m Building
 
-- 💰 Budget App (React → FastAPI backend evolution)
-- 🎮 Reflex-based browser game with progressive difficulty
-- 🐍 Python backend projects focused on APIs & data handling
-- 🌐 Expanding into Next.js & modern full-stack architecture
+- 💰 **Budget App** – React frontend evolving into a full-stack app with a FastAPI backend
+- 🎮 **RiskZone** – Reflex-based browser game with progressive difficulty & leaderboard logic
+- 🐍 Backend-focused Python projects centered around REST APIs and data modeling
+- 🌐 Expanding into Next.js and scalable full-stack architecture
 
 ---
 
 ## 🧠 Tech Stack
 
-**Frontend**
+### Frontend
 - React
 - JavaScript / TypeScript
 - Tailwind CSS
 - Vite
 
-**Backend**
+### Backend
 - Python
 - FastAPI
 - SQLAlchemy
 - SQLite
 
-**Tools**
+### Tools
 - Git & GitHub
 - Vercel
 - VS Code
@@ -40,24 +39,30 @@
 
 ## 🎯 Current Focus
 
-Sharpening:
-- Clean component architecture
-- Backend API design
-- State management patterns
-- Production-ready portfolio projects
+- Designing clean, maintainable component architecture
+- Building structured REST APIs
+- Strengthening state management patterns
+- Shipping portfolio projects with production-level polish
 
 ---
 
 ## 🌎 Live Projects
 
-- 🔗 Budget App – [https://budget-app-lake-omega.vercel.app/]
-- 🔗 Portfolio – [https://michaelnobles.dev]
-- 🔗 Game – [https://risk-zone.vercel.app/]
+- 💰 Budget App → https://budget-app-lake-omega.vercel.app/
+- 🎮 RiskZone → https://risk-zone.vercel.app/
+- 🌐 Portfolio → https://michaelnobles.dev
+
+---
+
+## 🛼 Philosophy
+
+Momentum over perfection.  
+Ship. Improve. Refine. Repeat.
 
 ---
 
 ## 📬 Let’s Connect
 
-- LinkedIn: [www.linkedin.com/in/michael-nobles-0242b014b]
-- Portfolio: https://michaelnobles.dev
-
+LinkedIn → https://www.linkedin.com/in/michael-nobles-0242b014b  
+Portfolio → https://michaelnobles.dev
+Email → Mnobles33@gmail.com
